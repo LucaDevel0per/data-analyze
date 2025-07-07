@@ -10,7 +10,7 @@ Um script simples para analisar o uso de armazenamento em seu computador e ident
 1.  **Clone o repositório:**
     ```bash
     git clone https://github.com/LucaDevel0per/data-analyze.git
-    cd seu-repositorio
+    cd data-analyze
     ```
 
 2.  **Execute o script:**
